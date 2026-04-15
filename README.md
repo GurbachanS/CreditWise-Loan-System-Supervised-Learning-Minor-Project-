@@ -127,4 +127,4 @@ python main.py
 
 ## 👤 Author
 
-[Your Name]
+Gurbachan Singh
